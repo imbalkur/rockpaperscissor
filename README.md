@@ -1,4 +1,4 @@
 # ROCK,PAPER,SCISSOR
 
-https://imbalkur.github.io/rockpaperscissor/.
+view [here](https://imbalkur.github.io/rockpaperscissor/.)
 
